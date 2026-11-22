@@ -3,4 +3,5 @@
 [![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/qienzdork/the-plan-make-fun-will-carry/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
 
 # The Plan, In Public
+
 A program (main.py) that writes one short plan to /output/entry.txt: a concrete, agent-executable plan to turn $100 into the most money in 30 days — Fiverr micro-services with fast delivery, reviews that compound, then higher prices and a rush tier. Built for the make.fun bounty linked above.
